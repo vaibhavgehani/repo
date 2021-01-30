@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144100831977",
+    "firebase_url": "https://message-9a70f.firebaseio.com",
+    "project_id": "message-9a70f",
+    "storage_bucket": "message-9a70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144100831977:android:30b111b852f83298b6b678",
+        "android_client_info": {
+          "package_name": "io.ionic.msgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144100831977-25752o5mcalv4dbjfq29hjdu4dc0lgcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN6YvCMv3UQGKmrdtdrWhOKMgZuPs8Ti0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144100831977-25752o5mcalv4dbjfq29hjdu4dc0lgcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
